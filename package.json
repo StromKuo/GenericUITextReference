@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.package-template",
+  "version": "0.0.1",
+  "displayName": "UnityPackageTemplate",
+  "description": "A Unity package template",
+  "unity": "2019.1",
+  "author": {
+    "name": "Strom"
+  }
+}
