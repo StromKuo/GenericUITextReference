@@ -1,10 +1,14 @@
 {
-  "name": "com.unity.package-template",
+  "name": "com.unity.generic-ui-text-reference",
   "version": "0.0.1",
-  "displayName": "UnityPackageTemplate",
-  "description": "A Unity package template",
+  "displayName": "GenericUITextReference",
+  "description": "GenericUITextReference",
   "unity": "2019.1",
   "author": {
     "name": "Strom"
+  },
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.0"
   }
 }

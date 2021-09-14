@@ -1,6 +1,9 @@
 {
-    "name": "SKUnityToolkit.UnityPackageTemplate.Editor",
-    "references": [],
+    "name": "SKUnityToolkit.GenericUITextReference.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d3f2c71abc449294baf0e72c73e40e49"
+    ],
     "includePlatforms": [
         "Editor"
     ],
