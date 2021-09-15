@@ -1,7 +1,7 @@
 # Generic UI Text Reference
 
-A simple tool to create a SerializeField to reference UnityEngin.UI.Text and TMPro.TextMeshProUGUI at the same time.
-[(Chinese Documents)](README_ZH.md)
+UnityEngin.UI.Text和TMPro.TextMeshProUGUI的融合类型，自定义的编辑器检视面板，提供类型和对应资产的选择。
+
 ## Usage
 
 ```csharp
